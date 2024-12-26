@@ -36,13 +36,13 @@ Sebelum memulai, pastikan Anda telah menginstal:
 - Jika ada kendala, silakan periksa log error yang muncul atau buka *issue* di repositori ini.
 
 ---
-**Perintah Berguna**  
-   Stop Node :
+## **Perintah Berguna**  
+   **Stop Node**
    ```bash
    cd miner
    docker-compose down
    ```
-   Liat Log :
+   **Liat Log**
    ```bash
    cd miner
    docker-compose logs -f
