@@ -14,9 +14,9 @@ Skrip ini memungkinkan Anda untuk menjalankan node secara otomatis dengan satu p
 
 ```bash
 chmod +x run-node.sh
-Jalankan skrip:
 
-3. Jalankan Miner
+3. Jalankan Skrip
+
 ```bash
 ./run-node.sh
 
